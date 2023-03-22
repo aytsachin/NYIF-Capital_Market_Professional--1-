@@ -1413,7 +1413,7 @@ section.dicussion-image {
 }
 
 .schlorshipfont{
-    font-size: 1.25rem !important;
+    /* font-size: 1.25rem !important; */
 }
 .nasecademy:hover{
     border: 1px solid var(--Black) !important;
@@ -1426,4 +1426,7 @@ section.dicussion-image {
 .instruction{
     font-size: .7em !important;
     padding: .3em !important;
+}
+.sepreter-investment{
+    display: flex;justify-content: space-between;border-left: 2px solid #e8cc47;padding-left: 3em;height: 10em;align-items: baseline;flex-wrap: wrap;align-content: center;
 }
