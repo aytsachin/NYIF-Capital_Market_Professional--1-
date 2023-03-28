@@ -483,6 +483,7 @@ section.banner_section,
 }
 
 .card_body {
+    color: #f1f2f9;
     transition: 0.3s linear;
 }
 
@@ -1429,4 +1430,7 @@ section.dicussion-image {
 }
 .sepreter-investment{
     display: flex;justify-content: space-between;border-left: 2px solid #e8cc47;padding-left: 3em;height: 10em;align-items: baseline;flex-wrap: wrap;align-content: center;
+}
+.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6{
+    margin-bottom: 0;
 }
